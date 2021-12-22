@@ -1,6 +1,3 @@
-# rental_car_management_system
-Designed and developed the car management database based upon the business requirements for maintaining the car inventory, customer details, ride booking orders and payment transactions.
-
 # Rental Car Management  System
 
 
